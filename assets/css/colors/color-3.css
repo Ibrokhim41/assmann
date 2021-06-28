@@ -1,3 +1,11 @@
+.call-action.ba-1, .call-action.ba-2 {
+    background-image: none;
+    background: #0c8b3b;
+}
+.page-title {
+    background-image: none;
+    background: #0c8b3b;
+}
 a.nile-bottom,
 #search .btn {
     background-color: #0c8b3b;
