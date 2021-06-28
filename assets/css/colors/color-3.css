@@ -4,7 +4,10 @@
 }
 .page-title {
     background-image: none;
-    background: #0c8b3b;
+}
+.page-title h1 {
+    color: #0c8b3b!important;
+    font-weight: 700;
 }
 a.nile-bottom,
 #search .btn {
