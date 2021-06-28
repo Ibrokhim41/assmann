@@ -1,0 +1,145 @@
+a.nile-bottom,
+#search .btn {
+    background-color: #0c8b3b;
+}
+
+a.action-bottom:hover {
+    background-color: #0c8b3b;
+}
+
+.service.layout-2 {
+    background-color: #0c8b3b;
+}
+
+footer.layout-light .nile-widget.widget_nav_menu ul li a:before {
+    color: #0c8b3b;
+}
+
+.price-table.active,
+.blog-item .date span.day {
+    background-color: #0c8b3b;
+}
+
+.background-1 {
+    background-color: #fffee5;
+}
+
+.background-2 {
+    background-color: #e5fad7;
+}
+
+.background-3 {
+    background-color: #fef1f4;
+}
+
+/*--- Global Background ---*/
+.background-main-color {
+    background-color: #0c8b3b;
+}
+
+.background-second-color {
+    background-color: #0c8b3b;
+}
+
+.background-third-color {
+    background-color: #f0b800;
+}
+
+/*--- Text Color ---*/
+.text-main-color {
+    color: #0c8b3b;
+}
+
+.text-second-color {
+    color: #022f7a;
+}
+
+/*--- Border Main Color ---*/
+.border-main-color {
+    border-color: #0c8b3b !important;
+}
+
+.border-second-color {
+    border-color: #022f7a !important;
+}
+
+ul.pagination.color li a {
+    background-color: #0c8b3b;
+}
+
+ul.pagination.color-1 li a {
+    background-color: #022f7a;
+}
+
+a.btn-outline-primary {
+    border-color: #0c8b3b;
+    color: #0c8b3b;
+}
+a.btn-outline-primary:hover {
+    background-color: #0c8b3b;
+}
+
+section .section-title h1 span {
+    color: #0c8b3b;
+}
+
+.owl-theme .owl-controls .owl-page span {
+    border: 1px solid #0c8b3b;
+}
+
+.widget h4.widget-title {
+    color: #0c8b3b;
+}
+
+.widget.widget_nav_menu ul li a:before,
+.widget.widget_recent_entries ul li a:before,
+.widget.widget_recent_comments ul li a:before,
+.widget.widget_archive ul li a:before,
+.widget.widget_categories ul li a:before,
+.widget.widget_meta ul li a:before,
+.widget.widget_rss ul li a:before {
+    color: #0c8b3b;
+}
+
+h4.table-title {
+    color: #0c8b3b;
+}
+
+.nav-tabs-2 .nav-link {
+    background-color: #0c8b3b;
+}
+
+.timeline-item .date:before {
+    color: #0c8b3b;
+}
+
+header a.model-link span {
+    background-color: #0c8b3b;
+}
+
+header ul.nav-menu > li.active > a {
+    color: #0c8b3b;
+}
+header ul.nav-menu > li > a:hover {
+    color: #0c8b3b;
+}
+
+.mega-links-4columns ul.sub-menu-columns > li > a {
+    color: #0c8b3b;
+}
+
+header a.model-link span {
+    background-color: #0c8b3b;
+}
+
+.fixed-header-dark {
+    background-color: #0c8b3b;
+}
+
+@media only screen and (max-width: 991px) {
+    #fixed-header-dark {
+        background-color: #0c8b3b;
+    }
+}
+
+/*# sourceMappingURL=color-3.css.map */
